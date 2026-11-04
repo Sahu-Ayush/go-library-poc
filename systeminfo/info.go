@@ -2,12 +2,12 @@ package systeminfo
 
 import "runtime"
 
-// GetSystemInfo returns information about the system.
-func GetOS() string{
+// GetOS returns the operating system.
+func GetOS() string {
 	return runtime.GOOS
 }
 
-func GetArchitecture() string (){
+// GetArchitecture returns the system architecture.
+func GetArchitecture() string {
 	return runtime.GOARCH
 }
-
