@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ayush/systeminfo"
+	"github.com/sahu-ayush/go-library-poc/systeminfo"
 )
 
 func main() {
