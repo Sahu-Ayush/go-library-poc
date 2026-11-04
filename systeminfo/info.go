@@ -26,6 +26,6 @@ func GetCPUCount() int {
 }
 
 // GetGoVersion returns the Go runtime version.
-func GoGetVersion() string {
+func GetGoVersion() string {
 	return runtime.Version()
 }
