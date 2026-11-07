@@ -1,2 +1,4 @@
 github.com/sahu-ayush/go-library-poc/systeminfo v1.0.0 h1:CRat+lTfNarXvaG1nvuOfGSU1uHfS1evI7UjZ+XruhI=
 github.com/sahu-ayush/go-library-poc/systeminfo v1.0.0/go.mod h1:906oQAqiSTrcfyfRchRiSN4WjavbkB9e3XLIIaZsUBQ=
+github.com/sahu-ayush/go-library-poc/systeminfo v1.1.0 h1:nWGfjRFQAmDx7fDrblWk9hGCoVQCTTTiySp+VJRTcyE=
+github.com/sahu-ayush/go-library-poc/systeminfo v1.1.0/go.mod h1:906oQAqiSTrcfyfRchRiSN4WjavbkB9e3XLIIaZsUBQ=

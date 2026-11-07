@@ -22,5 +22,5 @@ func main() {
 	fmt.Println("Hostname:", hostname)
 	fmt.Println("CPU Count:", systeminfo.GetCPUCount())
 	fmt.Println("Go Version:", systeminfo.GetGoVersion())
-
+	fmt.Println("System Summary:", systeminfo.GetSystemSummary())
 }
