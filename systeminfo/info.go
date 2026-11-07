@@ -29,3 +29,8 @@ func GetCPUCount() int {
 func GetGoVersion() string {
 	return runtime.Version()
 }
+
+// GetSystemSummary returns a short system summary.
+func GetSystemSummary() string {
+	return runtime.GOOS + "/" + runtime.GOARCH
+}
